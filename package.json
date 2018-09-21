@@ -1,0 +1,15 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "Simple parcel app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel watch index.html"
+  },
+  "author": "germancutraro",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.9.7"
+  }
+}
